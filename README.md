@@ -1,9 +1,9 @@
 <img align="center" src= "https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 <h1 align="center">Hi 👋, I'm Bui Trung Hieu</h1>
-<h3 align="center">I am on my way to becoming a Front End developer</h3>
+<h3 align="center">I am on my way to becoming a Frontend developer</h3>
 <img  align="right" width="400" alt="Coding Images" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 - 🔭 I’m currently studying at [Greenwich University](https://www.facebook.com/GreenwichVietnam) <br>
-- 🌱 I’m currently learning **Nuxt3** <br>
+- 🌱 I’m currently learning **Typescript** <br>
 - 👨‍💻 All of my projects are available at (https://github.com/thiu123) <br>
 - 📫 How to reach me **nhokhieukute2004@gmail.com**
 <h3 align="left">Connect with me:</h3>
