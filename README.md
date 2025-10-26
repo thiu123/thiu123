@@ -1,16 +1,80 @@
-<img align="center" src= "https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
-<h1 align="center">Hi 👋, I'm Bui Trung Hieu</h1>
-<h3 align="center">I am on my way to becoming a Frontend developer</h3>
-<img  align="right" width="400" alt="Coding Images" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
-- 🔭 I’m currently studying at [Greenwich University](https://www.facebook.com/GreenwichVietnam) <br>
-- 🌱 I’m currently learning **Typescript** <br>
-- 👨‍💻 All of my projects are available at (https://github.com/thiu123) <br>
-- 📫 How to reach me **nhokhieukute2004@gmail.com**
-<h3 align="left">Connect with me:</h3>
+<!-- Animated Banner -->
+<img align="center" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
+
+<!-- Typing Animation -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00DC82&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bui+Trung+Hieu!+👋;A+Frontend+Developer+from+Ho+Chi+Minh+City;Passionate+about+VueJS+%26+TypeScript+💚;Always+learning+new+technologies+🚀" alt="Typing SVG" />
+  </a>
+</h1>
+
+<h3 align="center">💻 Frontend Developer | Based in Ho Chi Minh City, Vietnam 🇻🇳</h3>
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
+
+### 🚀 About Me  
+- 🔭 Currently working as a **Frontend Developer** in **Ho Chi Minh City, Vietnam**  
+- 🌱 Specializing in **VueJS**, **NuxtJS**, and **TypeScript**  
+- 💡 Focused on building **modern, responsive**, and **high-performance** web applications  
+- 🧠 Expanding my backend skills with **NodeJS**, **ExpressJS**, and **MongoDB**  
+- 👨‍💻 Check out my projects on [**GitHub**](https://github.com/thiu123)  
+- 📫 Reach me at **nhokhieukute2004@gmail.com**
+
+---
+
+### 🌐 Connect With Me  
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bui-hieu-b84b2b277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bui-hieu-b84b2b277/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100010889416140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010889416140" height="30" width="40" /></a>
-<a href="https://instagram.com/hieu_1404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hieu_1404" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/bui-hieu-b84b2b277/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100010889416140" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/hieu_1404" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/048/332/157/original/bootstrap-icon-transparent-background-free-png.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> <img src="https://styles.redditmedia.com/t5_3k2ni/styles/communityIcon_027fvc5mclmb1.png" alt="vuejs" width="40" height="40"/>  </a> </p>
+
+---
+
+### 🧰 Languages and Tools  
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/VueJS-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NuxtJS-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiu123&show_icons=true&theme=tokyonight&hide_border=true" alt="Hieu's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiu123&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### 💬 Fun Facts  
+- 🎯 I love creating **beautiful, scalable** UI components and **smooth UX**  
+- ⚡ I enjoy turning ideas into **real-world interactive experiences**  
+- 🎮 Outside of coding, I like **music**, **movies**, and exploring **new technologies**
+
+---
+
+⭐️ **“Code is like art — elegant, expressive, and ever-evolving.”**
