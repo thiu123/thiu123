@@ -39,28 +39,23 @@
 
 ---
 
-### 🧰 Languages and Tools  
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/VueJS-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NuxtJS-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+### 🧰 Tech Stack
+
+#### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,ts,tailwind,bootstrap" />
 </p>
 
-<p align="center">
-  <!-- Backend & Database -->
-  <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+#### 🧠 Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,mongodb" />
 </p>
+
+#### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+</p>
+
 
 ---
 
