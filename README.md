@@ -1,114 +1,113 @@
-<div align="center">
+<!-- Gradient wave header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DC82,100:0891B2&height=220&section=header&text=Hi%20There!%20I'm%20Hieu%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20from%20Ho%20Chi%20Minh%20City&descAlignY=58&descSize=18" width="100%">
+</p>
 
-# 👋 Hey, I'm Hieu
+<!-- Typing Animation -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00DC82&center=true&vCenter=true&width=650&lines=Bui+Trung+Hieu+👨‍💻;Frontend+Developer+%E2%9A%A1;VueJS+%26+NuxtJS+Enthusiast+%F0%9F%92%9A;TypeScript+Lover+%F0%9F%92%99;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing SVG" />
+</h3>
 
-### Frontend Developer crafting playful, pixel-perfect web experiences ✨
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thiu123&label=Profile%20Views&color=00dc82&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/thiu123?label=Followers&style=for-the-badge&color=0891b2&logo=github" alt="Followers" />
+</p>
 
-`📍 Ho Chi Minh City, Vietnam`　`☕ Coffee-powered`　`🎧 Codes best with lo-fi`
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/📍_Location-Ho_Chi_Minh_City,_Vietnam-00DC82?style=for-the-badge" /></a>
+</p>
 
-</div>
+---
 
-<br>
+## 🚀 About Me
 
-```ts
-const hieu = {
-  pronouns: "he" as const,
-  role: "Frontend Developer 🎨",
-  location: "Ho Chi Minh City, Vietnam 🇻🇳",
-  stack: {
-    frontend: ["Vue.js", "Nuxt.js", "React", "Next.js", "TypeScript"],
-    backend: ["Node.js", "Express", "NestJS", "MongoDB"],
-  },
-  currentFocus: "shipping fast, accessible & delightful UIs 🚀",
-  funFact: "☕ + 🎧 lo-fi = clean code",
-} as const;
-```
+<img align="right" width="260" src="https://raw.githubusercontent.com/kirenspeace/kirenspeace/main/gif3.gif" alt="coding gif">
 
-<br>
+- 🔭 Currently working as a **Frontend Developer** in **Ho Chi Minh City, Vietnam**
+- 🌱 Specializing in **VueJS**, **NuxtJS**, and **TypeScript**
+- 💡 Focused on building **modern, responsive**, and **high-performance** web apps
+- 🧠 Expanding my backend skills with **NodeJS**, **ExpressJS**, and **MongoDB**
+- 🎯 I love crafting **beautiful UI** and buttery-smooth **UX**
+- ⚡ Fun fact: I turn coffee ☕ into clean, scalable code
+- 📫 Reach me at **nhokhieukute2004@gmail.com**
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 What I'm About</h3>
-      <p>
-        I love turning ideas into <b>smooth, interactive</b> web experiences.<br>
-        Deep into the <b>Vue / Nuxt</b> ecosystem, always sharpening my <b>TypeScript</b> game, and slowly leveling up on the backend with <b>Node & MongoDB</b>.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 Right Now</h3>
-      <p>
-        🔭 Building modern web apps as a Frontend Dev<br>
-        🌱 Deepening my <b>NestJS</b> & <b>MongoDB</b> skills<br>
-        🎯 Chasing clean UI + buttery-smooth UX<br>
-        📫 <a href="mailto:nhokhieukute2004@gmail.com">nhokhieukute2004@gmail.com</a>
-      </p>
-    </td>
-  </tr>
-</table>
+<br clear="right"/>
 
-<br>
+---
 
-## 🛠️ Toolbox
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="left">
+  <a href="https://www.linkedin.com/in/bui-hieu-b84b2b277/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100010889416140" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/hieu_1404" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:nhokhieukute2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-**Frontend**
-<br>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white">
+---
 
-**Backend**
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+## 🧰 Tech Stack
 
-**Tools**
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
-</div>
+---
 
-<br>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiu123&theme=tokyonight&hide_border=true&background=0D1117&ring=00DC82&fire=0891B2&currStreakLabel=00DC82" />
+</p>
 
-## 📊 The Numbers
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiu123&theme=react-dark&bg_color=0D1117&color=00DC82&line=00DC82&point=ffffff&hide_border=true" width="95%" />
+</p>
 
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thiu123&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9d1d9">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thiu123&theme=radical&hide_border=true&background=00000000&ring=7C3AED&fire=FF6B9D&currStreakLabel=FF6B9D">
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thiu123&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
+</p>
 
-<div align="center">
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=thiu123&theme=redical&bg_color=00000000&color=FF6B9D&line=7C3AED&point=ffffff&hide_border=true">
-</div>
+---
 
-<br>
+## 💬 Fun Facts
 
-## 🌐 Let's Connect
+- 🎨 I love creating **beautiful, scalable** UI components and smooth UX
+- ⚡ I enjoy turning ideas into **real-world interactive experiences**
+- 🎮 Outside of coding, I like **music**, **movies**, and exploring **new tech**
+- 🌙 I do my best debugging at midnight with lo-fi beats playing
 
-<div align="center">
-<a href="https://www.linkedin.com/in/bui-hieu-b84b2b277/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://www.facebook.com/profile.php?id=100010889416140"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
-<a href="https://instagram.com/hieu_1404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-<a href="https://github.com/thiu123"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-<a href="mailto:nhokhieukute2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-</div>
+---
 
-<br>
+<p align="center">
+  ⭐️ <b>"Code is like art — elegant, expressive, and ever-evolving."</b>
+</p>
 
-<div align="center">
-
-*"Code is like art — elegant, expressive, and ever-evolving."* ✨
-
-<img src="https://komarev.com/ghpvc/?username=thiu123&label=Visitors&color=FF6B9D&style=flat-square">
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:00DC82&height=100&section=footer" width="100%"/>
