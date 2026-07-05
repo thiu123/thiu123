@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00DC82&center=true&vCenter=true&width=650&lines=Bui+Trung+Hieu+👨‍💻;Frontend+Developer+%E2%9A%A1;VueJS+%26+NuxtJS+Enthusiast+%F0%9F%92%9A;TypeScript+Lover+%F0%9F%92%99;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00DC82&center=true&vCenter=true&width=650&lines=Bui+Trung+Hieu+👨‍💻;Frontend+Developer+%E2%9A%A1;VueJS+%26+NuxtJS+Enthusiast+%F0%9F%92%9A;TypeScript+Lover+%F0%9F%92%99;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -84,7 +84,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiu123&theme=tokyonight&hide_border=true&background=0D1117&ring=00DC82&fire=0891B2&currStreakLabel=00DC82" />
+  <img src="https://streak-stats.demolab.com/?user=thiu123&theme=tokyonight&hide_border=true&background=0D1117&ring=00DC82&fire=0891B2&currStreakLabel=00DC82" />
 </p>
 
 <p align="center">
