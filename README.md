@@ -91,10 +91,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiu123&theme=react-dark&bg_color=0D1117&color=00DC82&line=00DC82&point=ffffff&hide_border=true" width="95%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thiu123&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
-</p>
-
 ---
 
 ## 💬 Fun Facts
